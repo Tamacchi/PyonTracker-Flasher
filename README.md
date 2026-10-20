@@ -4,7 +4,7 @@
 
 Windows 10/11, 64-bit. Run the EXE. Firmware is included; flashing works offline.
 
-### Flash your trackers
+### Flash your PyonTrackers
 
 1. Close SlimeVR Server and other serial apps. Connect your main tracker with a USB data cable and turn it on.
 2. Wait for identification. If asked, select the IMU model printed on the lid.
