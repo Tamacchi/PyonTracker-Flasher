@@ -11,5 +11,3 @@ Windows 10/11, 64-bit. Run the EXE. Firmware is included; flashing works offline
 3. Review your selection, then click **Flash**. Keep trackers powered on and connected until verification finishes.
 
 Use **Help** in the app for connection guidance, or **Copy support details** when contacting PyonTracker support.
-
-App 0.1.18 and newer check for updates automatically. Older apps need a one-time download from the link above.
